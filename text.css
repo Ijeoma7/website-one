@@ -1,0 +1,38 @@
+
+
+    p {
+      font-family: roboto;
+    }
+    
+    .sales-page-title {
+      font-size: 25px;
+      font-weight: bold;
+      text-align: left;
+      width: 600px;
+      line-height: 40px;
+      margin-bottom: 0;
+    }
+    
+    .line-one {
+      font-size: 16px;
+      text-align: left; 
+      color: rgb(76, 78, 78);
+      margin-top: 0;
+    }
+    
+    .line-two {
+      font-size: 16px;
+      text-align: left; 
+      font-style: italic;
+      color: rgb(76, 78, 78);
+    }
+    
+    .line-three {
+    font-size: 16px;
+    color: rgb(76, 78, 78);
+    margin-top: 50px;
+    
+    }
+    
+
+    

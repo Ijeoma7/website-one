@@ -1,0 +1,35 @@
+
+
+      .intro
+      {
+        font-size: 32px;
+        font-family: roboto;
+        width: 400px;
+        font-weight: bold;
+        line-height: 42px;
+        color: rgb(63, 62, 62);
+        
+    
+    
+      }
+    
+      .goals
+    {font-family: arial;
+      color: rgb(128, 124, 124);
+      font-size: 13px;
+      width: 410px;
+      line-height: 24px;
+     
+    
+    }
+    .contact-me
+    {
+      font-family: arial;
+      font-weight: bold;
+      margin-top: 3em;
+      color: rgb(59, 58, 58);
+    }
+    
+    
+    
+    
